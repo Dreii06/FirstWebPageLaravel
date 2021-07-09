@@ -7,7 +7,7 @@
             <a class="navbar-brand" href="#">PEYBORITS</a>
             </div>
             <ul class="nav navbar-nav">
-            <li><a href="success">HOME</a></li>
+            <li><a href="/">HOME</a></li>
             <li><a href="basketball">BASKETBALL</a></li>
             <li class="active"><a href="anime">ANIME</a></li>
             <li><a href="tvseries">TV SERIES</a></li>
